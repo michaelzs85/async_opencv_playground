@@ -1,0 +1,6 @@
+[requires]
+opencv/3.4.1@camposs/stable
+fmt/5.2.0@bincrafters/stable
+
+[generators]
+cmake
